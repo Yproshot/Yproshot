@@ -1,9 +1,4 @@
 
-
-###
-
-<br clear="both">
-
 <h1 align="center">Olá, sejam bem vindos 👋</h1>
 
 ###
