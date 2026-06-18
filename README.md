@@ -75,9 +75,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yproshot&show_icons=true&theme=onedark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yproshot&layout=compact&theme=onedark" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Yproshot&locale=pt-br&mode=weekly&theme=onedark&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yproshot&show_icons=true&theme=onedark&locale=pt-br&=" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yproshot&layout=compact&theme=onedark&locale=pt-br" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Yproshot&locale=pt-br&mode=weekly&theme=onedark&hide_border=false&border_radius=10&locale=pt-br&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
 </div>
 
 
