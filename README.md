@@ -74,11 +74,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yproshot/Yproshot/stats-output/stats.svg" height="250" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Yproshot/Yproshot/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Yproshot/Yproshot/stats-output/stats.svg" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Yproshot/Yproshot/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Yproshot&locale=pt-br&mode=weekly&theme=onedark&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="186" alt="streak graph"  />
 </div>
 
