@@ -6,6 +6,20 @@
 
 <br clear="both">
 
+<h1 align="center">Olá, sejam bem vindos 👋</h1>
+
+###
+
+<h3 align="left">Oi, meu nome é Maicon, sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Ciência de Dados e Big Data Analytics.</h3>
+
+###
+
+<p align="left">Atualmente, dedico-me ao estudo contínuo de programação, com foco principal em Java e Spring. Possuo conhecimentos em desenvolvimento full stack, abrangendo front-end, back-end, banco de dados e noções de manutenção e práticas de DevOps, adquiridas por interesse e conveniência.<br><br>Concluí diversos cursos de linguagens de programação, incluindo, mais recentemente, Java, além da certificação ITIL 4 Foundation.</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBydTFwbHZtYzE5cHIxZ2dzMXFibTRld2gwejk1dnpyMzFwanlpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0QDPdbFi5MzLHhIpR/giphy.gif"  />
 </div>
@@ -23,20 +37,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yproshot.Yproshot&right_color=coral"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Olá, sejam bem vindos 👋</h1>
-
-###
-
-<h3 align="left">Oi, meu nome é Maicon, sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Ciência de Dados e Big Data Analytics.</h3>
-
-###
-
-<p align="left">Atualmente, dedico-me ao estudo contínuo de programação, com foco principal em Java e Spring. Possuo conhecimentos em desenvolvimento full stack, abrangendo front-end, back-end, banco de dados e noções de manutenção e práticas de DevOps, adquiridas por interesse e conveniência.<br><br>Concluí diversos cursos de linguagens de programação, incluindo, mais recentemente, Java, além da certificação ITIL 4 Foundation.</p>
 
 ###
 
