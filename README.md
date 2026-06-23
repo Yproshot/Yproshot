@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yproshot.Yproshot&right_color=coral"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Yproshot&left_text=Visitantes&left_color=%23595959&logo=github&radius=10" alt="visitor badge"/>
 </div>
 
 ###
