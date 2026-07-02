@@ -67,11 +67,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yproshot&show_icons=true&theme=onedark&locale=pt-br&=" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yproshot&layout=compact&theme=onedark&locale=pt-br" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Yproshot&locale=pt-br&mode=weekly&theme=onedark&hide_border=false&border_radius=10&locale=pt-br&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Yproshot/Yproshot/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> 
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/Yproshot/Yproshot/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="220" alt="languages graph" /> 
+  <br clear="both">
+  <img src="https://streak-stats.demolab.com?user=Yproshot&locale=pt-br&mode=weekly&theme=onedark&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 
 
